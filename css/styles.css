@@ -1,0 +1,48 @@
+body {
+  background-color: #EFEFEF;
+  margin-top: 25px;
+}
+
+ul {
+  list-style-type: none;
+  margin:0;
+  padding:0;
+}
+
+a {
+  text-decoration: none;
+}
+/*
+.sidebar {
+  background-image: url(../img/wiki_logo.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center top;
+  width: 150px;
+  height: 100%;
+  padding-top: 175px;
+  float: left;
+  position: absolute;
+  background-color: yellow;
+}
+
+.sidebar a {
+  font-size: 12px;
+}
+
+.content {
+  margin-left: 165px;
+  background-color: teal;
+}
+*/
+img {
+  width: 150px;
+}
+
+.header {
+  line-height: 8px;
+}
+
+.headerPadding {
+  padding-top: 16px;
+}
